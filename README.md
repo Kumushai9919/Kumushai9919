@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kumush&theme=dark)](https://leetcode.com/Kumush/)
 <!--
 **Kumushai9919/Kumushai9919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
