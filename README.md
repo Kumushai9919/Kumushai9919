@@ -7,9 +7,7 @@
 #### About Me 🍀
 I see challenges as opportunities for growth, so I eagerly explore anything that sparks my interest. Working with a team is something I truly enjoy and value.
 
-#### Current Focus 📱
-I am currently focusing on developing mobile applications for Android using Java and web applications using React.js and Node.js.
-
+ 
 #### Algorithm Problem Solver 🧠
 Besides that, I enjoy solving algorithms on LeetCode using Java. Feel free to check out my profile below to see my progress!
 
