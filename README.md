@@ -9,7 +9,7 @@ I see challenges as opportunities for growth, so I eagerly explore anything that
 
  
 #### Algorithm Problem Solver 🧠
-Besides that, I enjoy solving algorithms on LeetCode using Java. Feel free to check out my profile below to see my progress!
+Besides that, I enjoy solving algorithms on LeetCode using Java, JS. Feel free to check out my profile below to see my progress!
 
 _ _ _ _
   
