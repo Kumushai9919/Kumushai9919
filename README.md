@@ -12,9 +12,8 @@ I see challenges as opportunities for growth, so I eagerly explore anything that
 Besides that, I enjoy solving algorithms on LeetCode using Java. Feel free to check out my profile below to see my progress!
 
 _ _ _ _
- 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Kumush&theme=dark)](https://leetcode.com/Kumush/)
-
+  
+[![Kumush's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Kumush&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 <!--
 **Kumushai9919/Kumushai9919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
