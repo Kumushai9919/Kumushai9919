@@ -13,7 +13,7 @@ Besides that, I enjoy solving algorithms on LeetCode using Java, JS. Feel free t
 
 _ _ _ _
   
-[![Kumush's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Kumush&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![Kumush's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Kumush&theme=Dark)](https://leetcode.com/Kumush/)
 
 <!--
 **Kumushai9919/Kumushai9919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
