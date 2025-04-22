@@ -2,7 +2,7 @@
 ## 새로운 것에 도전하며 성장하는 개발자 👩🏻‍💻
  
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)  ![Figma](https://img.shields.io/badge/figma-%2320232a.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/postman-%23F24E1E.svg?style=for-the-badge&logo=postman&logoColor=white) 
 
 #### About Me 🍀
 I see challenges as opportunities for growth—debugging my way through life, one bug at a time! 🚀  Working with a team is something I truly enjoy and value.
@@ -15,6 +15,14 @@ _ _ _ _
   
 [![Kumush's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=Kumush&theme=Dark)](https://leetcode.com/Kumush/)
 
+_ _ _ _
+
+## My GitHub Stats 📈
+<p align="center">
+  <img src="https://github-readme-stats-mu-ivory-55.vercel.app/api?username=Kumushai9919&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kumushai9919&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-mu-ivory-55.vercel.app/api/top-langs/?username=Kumushai9919&layout=compact&theme=tokyonight" height="180" />
+</p>
 <!--
 **Kumushai9919/Kumushai9919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
